@@ -1,0 +1,19 @@
+ Water Intake Tracker
+
+A simple Python project to track daily water consumption.  
+Users can set a daily goal, log their intake, and view progress reports.
+
+ Features
+Set daily water intake goal
+Log water intake (ml)
+See total, remaining amount, and completion %
+Automatically saves logs
+Simple CLI interface
+
+ Technologies Used
+ Python 3
+
+ Files
+ main.py — main program
+ water_log.txt — stored data
+
